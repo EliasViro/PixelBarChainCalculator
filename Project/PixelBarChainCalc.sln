@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelBarChainCalc", "PixelBarChainCalc.csproj", "{3AFB7AE6-035F-4286-8837-B4140A9DAF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AFB7AE6-035F-4286-8837-B4140A9DAF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFB7AE6-035F-4286-8837-B4140A9DAF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFB7AE6-035F-4286-8837-B4140A9DAF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFB7AE6-035F-4286-8837-B4140A9DAF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F9F07BD-8DF9-4B99-8FE9-3B91A9A7D49E}
+	EndGlobalSection
+EndGlobal

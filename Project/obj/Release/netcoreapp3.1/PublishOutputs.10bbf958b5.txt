@@ -1,0 +1,5 @@
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\Build\PixelBarChainCalc.exe
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\Build\PixelBarChainCalc.dll
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\Build\PixelBarChainCalc.deps.json
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\Build\PixelBarChainCalc.runtimeconfig.json
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\Build\PixelBarChainCalc.pdb

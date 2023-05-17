@@ -1,0 +1,14 @@
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\bin\Release\netcoreapp3.1\PixelBarChainCalc.exe
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\bin\Release\netcoreapp3.1\PixelBarChainCalc.deps.json
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\bin\Release\netcoreapp3.1\PixelBarChainCalc.runtimeconfig.json
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\bin\Release\netcoreapp3.1\PixelBarChainCalc.runtimeconfig.dev.json
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\bin\Release\netcoreapp3.1\PixelBarChainCalc.dll
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\bin\Release\netcoreapp3.1\PixelBarChainCalc.pdb
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\obj\Release\netcoreapp3.1\PixelBarChainCalc.csproj.AssemblyReference.cache
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\obj\Release\netcoreapp3.1\PixelBarChainCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\obj\Release\netcoreapp3.1\PixelBarChainCalc.AssemblyInfoInputs.cache
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\obj\Release\netcoreapp3.1\PixelBarChainCalc.AssemblyInfo.cs
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\obj\Release\netcoreapp3.1\PixelBarChainCalc.csproj.CoreCompileInputs.cache
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\obj\Release\netcoreapp3.1\PixelBarChainCalc.dll
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\obj\Release\netcoreapp3.1\PixelBarChainCalc.pdb
+C:\Users\Elias Viro\Pictures\PixelBarChainCalc\PixelBarChainCalc\obj\Release\netcoreapp3.1\PixelBarChainCalc.genruntimeconfig.cache
