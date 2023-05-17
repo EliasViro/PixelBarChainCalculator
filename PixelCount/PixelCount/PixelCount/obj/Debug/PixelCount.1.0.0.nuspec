@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PixelCount</id>
+    <version>1.0.0</version>
+    <authors>PixelCount</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Elias Viro\Pictures\Twisted Rogue\PixelCount\PixelCount\PixelCount\bin\Debug\netcoreapp3.1\PixelCount.runtimeconfig.json" target="lib\netcoreapp3.1\PixelCount.runtimeconfig.json" />
+    <file src="C:\Users\Elias Viro\Pictures\Twisted Rogue\PixelCount\PixelCount\PixelCount\bin\Debug\netcoreapp3.1\PixelCount.dll" target="lib\netcoreapp3.1\PixelCount.dll" />
+  </files>
+</package>

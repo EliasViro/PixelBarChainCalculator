@@ -1,0 +1,5 @@
+C:\Users\Elias Viro\Downloads\PixelCount.exe
+C:\Users\Elias Viro\Downloads\PixelCount.dll
+C:\Users\Elias Viro\Downloads\PixelCount.deps.json
+C:\Users\Elias Viro\Downloads\PixelCount.runtimeconfig.json
+C:\Users\Elias Viro\Downloads\PixelCount.pdb
